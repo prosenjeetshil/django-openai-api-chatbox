@@ -1,2 +1,4 @@
 /django_chatbot/.env
 /django_chatbot/chatbot/migrations
+django_chatbot/django_chatbot/__pycache__
+django_chatbot/chatbot/__pycache__
